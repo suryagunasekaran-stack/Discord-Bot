@@ -6,8 +6,6 @@ module.exports = {
 		.setDescription('Replies with one of Kylie\'s iconic quotes'),
 	async execute(interaction) {
 		const quoteList = [
-			'Thats fucked up',
-			'shut up retard',
 			'doomas',
 			'*disjoins discord*',
 			'we are not the same',
